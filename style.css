@@ -571,6 +571,14 @@ footer{
         background-color: whitesmoke;
     }
 
+    .fMenuTitle{
+        font-size: 4px;
+    }
+
+    .fLsitItem{
+        font-size: 2px;
+    }
+
     .payment{
         width: 90%;
         padding: 20px;
